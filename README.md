@@ -1,2 +1,2 @@
 # musiclessons
-My first web project!
+A demo project for simple learning and experimenting purpose
