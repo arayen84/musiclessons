@@ -1,2 +1,2 @@
 # musiclessons
-A demo project for simple learning and experimenting purpose
+A Demo project for simple learning and experimenting purpose
